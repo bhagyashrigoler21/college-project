@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "972075107625",
+    "project_id": "onlinecounsellingapp-56d47",
+    "storage_bucket": "onlinecounsellingapp-56d47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972075107625:android:ca878170c2bd85e4e8a338",
+        "android_client_info": {
+          "package_name": "com.example.OnlineCounsellingApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972075107625-r3gg77e1m999gri0ptp89uj69446r3b5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwOM00xmt1rOxDeirOi2CfSzyA6R6MkNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972075107625-r3gg77e1m999gri0ptp89uj69446r3b5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
